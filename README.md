@@ -6,6 +6,7 @@
 - It helps colleges or placement coordinators to evaluate which students are ready for placement based on various metrics such as technical, and soft skill.
 
 **Project Overview**
+
 By connecting to a structured student database, the app allows users to apply filters such as:
 - Minimum soft skills average score,
 - Number of problems solved,
